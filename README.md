@@ -12,5 +12,7 @@ moving the .dat files in to the build folder,or it will fail.
 * borrow: you can borrow one book at a time by pressing the book name.  
 * Special account: you can change books in the library like add or remove one book.  
 * search for books: you can search books by enter it title or author or public of year.  
+## Attentions:  
+You should make sure that all four files have things in them.
 # Maintainer:  
 JianhaoGe 
